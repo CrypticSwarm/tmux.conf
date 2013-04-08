@@ -9,3 +9,7 @@ This tmux configuation tries to aim to have as little impact on terminal program
 cd [the tmux config repo]
 ./install.sh
 ```
+
+## Mac
+
+On mac you probably want to intall reattach to user namespace.
